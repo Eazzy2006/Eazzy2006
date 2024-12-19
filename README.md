@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eazzy2006
-- 👀 I’m interested in Front-End Developing
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on different front-end projects
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: idrizosmanii6@gmail.com
 
 <!---
